@@ -5,7 +5,9 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFT5GdJjXs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFT5GdJjXs&#x2F;view?utm_content=DAFT5GdJjXs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">)  
+<a style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;" href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFT5GdJjXs&#x2F;view?utm_content=DAFT5GdJjXs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">)  
   
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6mn6HJv/MARTIN-GALARA.png" alt="MARTIN-GALARA" border="0"></a>
 
