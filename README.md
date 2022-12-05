@@ -9,7 +9,9 @@
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;" href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFT5GdJjXs&#x2F;view?utm_content=DAFT5GdJjXs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">)  
   
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/6mn6HJv/MARTIN-GALARA.png" alt="MARTIN-GALARA" border="0"></a>
+<a style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;" href="https://imgbb.com/"><img src="https://i.ibb.co/6mn6HJv/MARTIN-GALARA.png" alt="MARTIN-GALARA" border="0"></a>
 
 ### <div align="center">Soy Martín Galará, una persona emprendedora, con capacidad de liderar, comunicar y transmitir, padre de 2 hijos y esposo. Full Stack Developer, con experiencia trabajando en tecnologias NodeJS, SQL, Sequelize, React, Redux, entre otras tecnologias del sector. Les doy la bienvenida a mi perfil, donde podran ver mis proyectos.
 </div>  
