@@ -1,6 +1,8 @@
 <a href="https://imgbb.com/"><img style="width:100%" src="https://i.ibb.co/6mn6HJv/MARTIN-GALARA.png" alt="MARTIN-GALARA" border="0"></a>
 
-### <div align="center">Soy Martín Galará, una persona emprendedora, con capacidad de liderar, comunicar y transmitir, padre de 2 hijos y esposo. Full Stack Developer, con experiencia trabajando en tecnologias NodeJS, SQL, Sequelize, React, Redux, entre otras tecnologias del sector. Les doy la bienvenida a mi perfil, donde podran ver mis proyectos.
+### <div align="center">Soy una persona madura, responsable, fuertemente orientada hacia el detalle, la calidad y los resultados, estas son las cualidades que me definen. Disfruto del trabajo en equipo y el liderazgo democrático, piezas que considero claves para la lograr resultados óptimos, además me considero un gran apasionado de la tecnología y la computación. 
+
+Les doy la bienvenida a mi perfil, donde podran ver mis proyectos.
 </div>  
  
 - 🔭 Si desean contactarme via email lo pueden hacer a: mgalara@gmail.com
