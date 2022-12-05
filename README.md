@@ -10,6 +10,11 @@
 
 ### <div align="center">Soy Martín Galará, una persona emprendedora, con capacidad de liderar, comunicar y transmitir, padre de 2 hijos y esposo. Full Stack Developer, con experiencia trabajando en tecnologias NodeJS, SQL, Sequelize, React, Redux, entre otras tecnologias del sector. Les doy la bienvenida a mi perfil, donde podran ver mis proyectos.
 </div>  
+ 
+- 🔭 Si desean contactarme via email lo pueden hacer a: mgalara@gmail.com
+  
+
+- 🌱 Actualmente estoy aprendiendo Amazon Web Services y TypeScript
   
 
 <br/>  
